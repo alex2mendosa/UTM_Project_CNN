@@ -8,4 +8,6 @@
   3_Image_Detection 
     applies NN and opencv Count Contours as baseline model to count number of apples on picture
     pending: apply Selective search,  Non-Max Suppression to count number of apples
+
+ 4_Image_Detection     Countains solution with IoU and Non Max approach 
   
